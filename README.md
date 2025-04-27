@@ -3,7 +3,7 @@
 26th April 2025
 By Shangyu Li (sli038@gold.ac.uk)
 
-Video documentation: https://vimeo.com/1079087118
+Video Documentation: https://vimeo.com/1079087118
 
 
 ## Instructions:
